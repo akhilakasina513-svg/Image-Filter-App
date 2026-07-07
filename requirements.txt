@@ -1,0 +1,17 @@
+Requirements:
+
+1. OpenCV (opencv-python)
+   - Used for image processing operations such as grayscale conversion, blur filtering, and edge detection.
+
+2. Pillow (PIL)
+   - Used for loading, displaying, and saving images in the Tkinter GUI.
+
+3. Tkinter
+   - Used to create the graphical user interface. (Comes pre-installed with Python.)
+   
+   
+   # Image processing library
+opencv-python
+
+# Image display and handling
+Pillow
